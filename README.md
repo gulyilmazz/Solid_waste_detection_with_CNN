@@ -10,7 +10,9 @@ Modelin performansı, çeşitli metrikler kullanılarak değerlendirildi.
 Sonuç: Model, atık türlerini %77 doğrulukla sınıflandırabilmektedir. Özellikle cam ve kağıt atıklarını yüksek doğrulukla tanımaktadır. Plastik ve diğer atık türlerinde ise modelin performansı biraz daha düşüktür.
 
 Gelecek Çalışmalar: Veri setinin genişletilmesi ve modelin gerçek zamanlı sistemlere entegrasyonu hedeflenmektedir.
-//// en
+
+
+
 Project: Waste Classification and Recycling Optimization
 
 Purpose: To develop an AI-based waste classification system to improve waste management processes and increase recycling rates.
